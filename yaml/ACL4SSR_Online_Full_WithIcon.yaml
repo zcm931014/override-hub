@@ -511,7 +511,7 @@ rule-providers:
     format: text
     type: http
   ChinaDomain:
-    url: https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+    url: https://ghp.ci/https://raw.githubusercontent.com/zcm931014/ACL4SSR/refs/heads/master/Clash/ChinaDomain.list
     path: ./ruleset/ChinaDomain.list
     behavior: domain
     interval: 86400
